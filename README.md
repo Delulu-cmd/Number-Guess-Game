@@ -1,6 +1,6 @@
 ## 🎲 Number Guessing Game 
 
-A cute little boredom-buster built with Python!
+_A cute little boredom-buster built with Python!_
 
 ---
 
